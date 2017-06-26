@@ -21,7 +21,7 @@ After you open the .arc file, you can use wimgt in Wiimms SZS Tools to convert t
 
 `wimgt d <TPL file>`
 
-chjump.bin is a file that will on a press of a button, launch a specified Channel.
+chjump.bin is a file that will on a press of a button, launch a specified Channel. The kaitai for this is [here](https://github.com/RiiConnect24/Kaitai-Files/blob/master/Kaitais/chjump.ksy).
 
 sound.bns is a sound file that plays when you open a letter. Use [Sharpii](https://github.com/mogzol/sharpii/releases) for converting it into a WAV.
 
