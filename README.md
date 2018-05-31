@@ -1,10 +1,10 @@
-# WMB-Letterforms
+# WMB-Letterhead
 
 You know those special, colorful templates you sometimes are able to get on the Wii Message Board? This repository has all of them we know of.
 
 ## Opening them
 
-To extract the .arc files, we recommend you use wszst [Wiimms SZS Tools](http://szs.wiimm.de/).
+To extract the .arc files, we recommend you use [Wiimms SZS Tools](http://szs.wiimm.de/).
 
 `wszst x <path to ARC>`
 
