@@ -1,9 +1,0 @@
-the full letter should be 512 x 376 if its not the action file will resize it to that size
-
-create a folder called wiiletter in the root of your C: drive
-
-open your pic in photoshop 
-load the included action file wii letter.atn
-run the letter action
-
-you can use https://www.spriters-resource.com/wii/wiimenu/sheet/68514/ as a template
