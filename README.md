@@ -15,7 +15,7 @@ You will find at most, 4 files inside there.
 * chjump.bin
 * sound.bns
 
-The former two files are LZ10 compressed. Use [lzss in this package](https://www.romhacking.net/utilities/826/) or [DSDecmp](https://github.com/RiiConnect24/File-Maker/tree/master/Tools/DSDecmp) to decompress them orThe result of both of them is an .arc file. Use Wiimms SZS Tools to open that.
+The former two files are LZ10 compressed. Use [lzss in this package](https://www.romhacking.net/utilities/826/) or [DSDecmp](https://github.com/RiiConnect24/File-Maker/tree/master/Tools/DSDecmp) to decompress them. The result of both of them is an .arc file. Use Wiimms SZS Tools to open that.
 
 After you open the .arc file, you can use wimgt in Wiimms SZS Tools to convert the TPLs into PNGs.
 
